@@ -1,0 +1,24 @@
+{
+  "name": "ask-out-your-valentine",
+  "version": "1.0.0",
+  "description": "Thank you to [@mewtru](https://instagram.com/mewtru) for the video idea!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeKageHQ/Ask-out-your-Valentine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeKageHQ/Ask-out-your-Valentine/issues"
+  },
+  "homepage": "https://github.com/CodeKageHQ/Ask-out-your-Valentine#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
